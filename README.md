@@ -1,4 +1,4 @@
-# Trybe-Exercicios
+# Trybe-Exercicios (trybe-exercises)
 ## Meu repositório de exercícios
 Repositório que constam todos os exercícios realizados durante o curso de formação da Trybe.
 
